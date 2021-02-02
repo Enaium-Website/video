@@ -2,37 +2,37 @@
     {
         "name": "全民写端",
         "description": "Minecraft客户端制作",
-        "pic": "http://i0.hdslb.com/bfs/archive/590951ca96ae3e3aae18d78b81e8df871b06510e.png",
+        "pic": "/assets/qmxd.png",
         "link": "https://www.bilibili.com/medialist/detail/ml934515204"
     },
     {
         "name": "全民写端第二季",
         "description": "以ForgeMod的方式来制作Minecraft客户端",
-        "pic": "http://i2.hdslb.com/bfs/archive/85de40b370879c5955bc32196ce9ceacd0491f99.png",
+        "pic": "/assets/qmxd2.png",
         "link": "https://www.bilibili.com/medialist/detail/ml934364304"
     },
     {
         "name": "全民写端第三季",
         "description": "以FabricMod的方式来制作Minecraft客户端",
-        "pic": "http://i0.hdslb.com/bfs/archive/99f9f2339a846340528cbe1e860665fb4ce20bd7.png",
+        "pic": "/assets/qmxd3.png",
         "link": "https://www.bilibili.com/medialist/detail/ml934517204"
     },
     {
         "name": "Minecraft Code",
         "description": "Minecraft的Code视频",
-        "pic": "http://i0.hdslb.com/bfs/archive/9d040e2cfd760d069bb3411794c5450933e4be4d.png",
+        "pic": "/assets/mccode.png",
         "link": "https://www.bilibili.com/medialist/detail/ml934607704"
     },
     {
         "name": "BlocklyNukkit教程",
         "description": "Minecraft基岩版服务器插件BlocklyNukkit的教程",
-        "pic": "http://i2.hdslb.com/bfs/archive/b8d679343ed3d5a668ba64814ca9e65b2a9a0fd0.png",
+        "pic": "/assets/blocklynukkit.png",
         "link": "https://www.bilibili.com/video/BV1n54y1R7Hk"
     },
     {
         "name": "Minecraft 1.16.5 Fabric模组开发",
         "description": "Minecraft 1.16.5 Fabric的模组开发教程",
-        "pic": "http://i0.hdslb.com/bfs/archive/7df46dd9dd0cb93debf74b0167f33919f49a11ab.png",
+        "pic": "/assets/mcfabric.png",
         "link": "https://www.bilibili.com/medialist/detail/ml1163554204"
     }
 ]
