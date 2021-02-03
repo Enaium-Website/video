@@ -18,6 +18,12 @@
         "link": "https://www.bilibili.com/medialist/detail/ml934517204"
     },
     {
+        "name": "全民写端第四季",
+        "description": "使用CF4M框架来制作Minecraft客户端",
+        "pic": "/assets/qmxd4.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1169465204"
+    },
+    {
         "name": "Minecraft Code",
         "description": "Minecraft的Code视频",
         "pic": "/assets/mccode.png",
