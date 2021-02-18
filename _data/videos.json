@@ -41,4 +41,10 @@
         "pic": "/assets/mcfabric.png",
         "link": "https://www.bilibili.com/medialist/detail/ml1163554204"
     }
+    {
+        "name": "CF4M教程",
+        "description": "Minecraft 客户端框架 CF4M 的使用教程",
+        "pic": "/assets/cf4m.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1183524304"
+    }
 ]
