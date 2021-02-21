@@ -46,5 +46,11 @@
         "description": "Minecraft 客户端框架 CF4M 的使用教程",
         "pic": "/assets/cf4m.png",
         "link": "https://www.bilibili.com/medialist/detail/ml1183524304"
+    },
+    {
+        "name": "入门教程",
+        "description": "杂项 入门教程",
+        "pic": "/assets/rm.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1186416704"
     }
 ]
