@@ -52,5 +52,11 @@
         "description": "杂项 入门教程",
         "pic": "/assets/rm.png",
         "link": "https://www.bilibili.com/medialist/detail/ml1186416704"
+    },
+    {
+        "name": "ASM教程",
+        "description": "Java ASM",
+        "pic": "/assets/asm.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1186416704"
     }
 ]
