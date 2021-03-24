@@ -24,6 +24,12 @@
         "link": "https://www.bilibili.com/medialist/detail/ml1169465204"
     },
     {
+        "name": "全民写端第五季",
+        "description": "使用CF4M框架不使用Mod和MCP来制作Minecraft客户端",
+        "pic": "/assets/qmxd5.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1206604604"
+    },
+    {
         "name": "Minecraft Code",
         "description": "Minecraft的Code视频",
         "pic": "/assets/mccode.png",
@@ -55,8 +61,14 @@
     },
     {
         "name": "ASM教程",
-        "description": "Java ASM",
+        "description": "Java ASM字节码修改框架教程",
         "pic": "/assets/asm.jpg",
         "link": "https://www.bilibili.com/medialist/detail/ml1193560704"
+    },
+    {
+        "name": "Mixin教程",
+        "description": "SpongePower Mixin一个基于ASM的Java字节码修改框架",
+        "pic": "/assets/mixin.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1208428604"
     }
 ]
