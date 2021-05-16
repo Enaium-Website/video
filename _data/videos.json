@@ -76,5 +76,11 @@
         "description": "SpongePower Mixin一个基于ASM的Java字节码修改框架",
         "pic": "/assets/mixin.png",
         "link": "https://www.bilibili.com/medialist/detail/ml1208428604"
+    },
+    {
+        "name": "Minecraft启动器开发教程",
+        "description": "使用Java开发Minecraft启动器",
+        "pic": "/assets/mcc.png",
+        "link": "https://www.bilibili.com/medialist/detail/ml1244043204"
     }
 ]
